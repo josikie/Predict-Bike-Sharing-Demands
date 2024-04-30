@@ -20,7 +20,7 @@ I see improvement on the kaggle score, from 1.79033 to 0.66899. In this case pro
 It got improved, from kaddle score 0.66899 to 0.45646.
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
-I want to explore temperatures.
+I want to explore temperatures, and try hyper parameter one by one
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
